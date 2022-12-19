@@ -121,4 +121,4 @@ plt.plot(x,y,'r',marker='*')
 plt.show()
 
 
-
+![photo1]https://github.com/rockyTTTT/Test/blob/main/question2_1.png
