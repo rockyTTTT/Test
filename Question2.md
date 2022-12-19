@@ -122,3 +122,5 @@ plt.show()
 
 
 ![photo1](https://github.com/rockyTTTT/Test/blob/main/question2_1.png)
+
+![photo2](https://github.com/rockyTTTT/Test/blob/main/question2_2.png)
